@@ -1,0 +1,10 @@
+# Normalise line endings across Windows, macOS and Linux
+* text=auto
+
+# Binary files
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pdf binary
+*.h5 binary
+*.keras binary

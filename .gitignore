@@ -1,0 +1,29 @@
+# Photos captured by raspberry-pi/capture.py
+image_*.jpg
+image_*.png
+
+# Datasets and training outputs (large) - download PlantVillage from Kaggle instead
+dataset/
+PlantVillage/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Arduino / editors
+build/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets (Wi-Fi passwords, API keys) - NEVER commit
+.env
+secrets.h
+*.local.*
