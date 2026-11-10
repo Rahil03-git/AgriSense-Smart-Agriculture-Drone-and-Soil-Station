@@ -1,0 +1,6 @@
+# Python packages for raspberry-pi/detection.py
+# (picamera2, used by capture.py, is installed on Raspberry Pi OS with: sudo apt install python3-picamera2)
+tensorflow
+numpy
+pillow
+rembg[cpu]
