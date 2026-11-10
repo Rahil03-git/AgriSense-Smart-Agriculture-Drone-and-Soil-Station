@@ -1,0 +1,24 @@
+Group,Component,Sets,Unit price (BDT),Subtotal (BDT)
+Ground station,Arduino UNO (SMD CH340),1,435,435
+Ground station,Jumper Wires (40 Pcs Set),3,85,255
+Ground station,Breadboard (400 Tie Points),3,87,261
+Ground station,4 Channel Relay (5V),1,240,240
+Ground station,ESP-32 (WROOM32),1,790,790
+Ground station,DHT-22 (Temp/Humidity Sensor),1,235,235
+Ground station,Soil Sensor,3,150,450
+Ground station,Servo Motor (SG90),2,180,360
+Ground station,12V 2A Charger/Adapter,1,120,120
+Ground station,"OLED Display I2C (0.96"")",1,379,379
+Ground station,Water Pump (Mini DC 3-6V),1,63,63
+Drone / UAV,Raspberry Pi 4GB,1,9700,9700
+Drone / UAV,Camera V2,1,3390,3390
+Drone / UAV,F405 V3 PLUS Flight Controller,1,8499,8499
+Drone / UAV,"ESC (Single Unit, e.g., 30A SimonK)",4,499,1996
+Drone / UAV,MATEK XT 60 PDB,1,948,948
+Drone / UAV,DJI 2212 920KV VLDX Motor (Single Unit),1,1120,1120
+Drone / UAV,Propeller (1045 Pair),2,140,280
+Drone / UAV,F450 Quadcopter Frame,1,1650,1650
+Drone / UAV,3500mAh Lipo Battery (3S),1,3500,3500
+Drone / UAV,High Temperature Silicone Wire (2ft Set),2,130,260
+Drone / UAV,20CM Strap Battery Binding (Single Strap),2,47,94
+TOTAL (sum of lines),,35,,35025
