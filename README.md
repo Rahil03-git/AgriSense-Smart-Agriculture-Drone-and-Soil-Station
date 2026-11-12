@@ -17,9 +17,9 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="docs/images/drone 2.jpg" alt="The quadcopter" height="260"><br><sub>The quadcopter (UAV tier)</sub></td>
-    <td align="center"><img src="docs/images/ground-station.jpg" alt="The ground station" height="260"><br><sub>Ground station with soil sensors</sub></td>
-    <td align="center"><img src="docs/images/drone.jpg" alt="Flying-test quadcopter" height="260"><br><sub>Flying-test of the quadcopter</sub></td>
+    <td align="center"><img src="docs/images/drone 2.jpg" alt="The quadcopter" height="260"><br><sub>The Quadcopter (UAV Tier)</sub></td>
+    <td align="center"><img src="docs/images/ground-station.jpg" alt="The ground station" height="260"><br><sub>Ground Station with Soil Sensors</sub></td>
+    <td align="center"><img src="docs/images/drone.jpg" alt="Flying-test quadcopter" height="260"><br><sub>Flying-Test of the Quadcopter</sub></td>
   </tr>
 </table>
 
